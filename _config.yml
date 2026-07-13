@@ -13,10 +13,10 @@ title                    : "Rebecca Balebako"
 title_separator          : "-"
 name                     : &name "Rebecca Balebako"
 description              : &description "Security testing and privacy engineering"
-url                      : https://rbalebako.github.io
+url                      : "https://www.rebeccahunt.com"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rbalebako/rbalebako.github.io"
+#repository               : "rbalebako/rbalebako.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
