@@ -11,15 +11,15 @@ I am a lecturer at the Zurich University of Applied Sciences (ZHAW) and a privac
 
 My work centers on security testing and privacy engineering, including practical methods to evaluate real-world risk in software and machine learning systems.
 
-Previously, I was a full-stack web developer before specializing in privacy and security.
+I have worked for government, industry, and academia, including at RAND, Google, and Stanford as a scientist, privacy engineer, and web developer.  My goal is to enable software engineers to produce secure and private systems, while still loving their jobs.  
 
 ## Current Focus
 
-- Security and privacy evaluation of AI-assisted systems
-- Privacy notice effectiveness and user comprehension
-- Secure software engineering practices
+* Evaluating AI-Systems for Security:  LLMs are being introduced into various aspects of secure development.  I ask, "How do we know it is good enough?"  From evaluating whether software code is secure, to whether security decisions are appropriate, I focus on using the right tests and metrics to shed light on what is being evaluated.  
+* Testing Privacy for ML and AI systems:  Designing data systems with privacy in mind often requires a trade-off between accuracy and protection.  I examine whether the appropriate decision has been made, using both a risk assessmet and red-team approach.  
+
 
 ## Links
 
-- [Publications](/publications/)
-- [Teaching](/teaching/)
+* [Publications](/publications/)
+* [Teaching](/teaching/)
